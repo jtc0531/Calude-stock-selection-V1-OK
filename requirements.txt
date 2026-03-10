@@ -9,4 +9,3 @@ scikit-learn
 tqdm
 yfinance
 numpy
-# 強制更新環境
