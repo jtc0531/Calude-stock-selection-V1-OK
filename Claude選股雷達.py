@@ -411,7 +411,7 @@ if st.button("🚀 啟動全市場深度掃描", type="primary", use_container_w
 
 st.markdown("---")
 st.markdown("""
-**改良說明**
+**改良的說明**
 - 📦 **資料來源**：FinMind API（台股專用），月營收、日K均有完整資料
 - ⚡ **效能**：ThreadPoolExecutor 並發掃描，速度提升 3–8 倍
 - 📈 **技術面**：RSI + MACD + 真實突破（非接近高點），減少假訊號
